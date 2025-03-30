@@ -46,3 +46,14 @@
 	justify-content: center;
 	text-align: center;
 }
+
+.centered-photo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.centered-content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
