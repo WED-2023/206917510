@@ -9,7 +9,6 @@ This project is a personal website created for Moshe Cohen, a respected farmer a
 - **Photo Gallery** – A chronological gallery displaying Moshe through different phases of his life.
 - **My Playlist** – Embedded YouTube playlist featuring Moshe’s favorite songs.
 - **Like Button** – A Facebook icon linking to Moshe Cohen's Facebook profile.
-- **Like Button** – Integrated Facebook "Like" functionality to support social interaction.
 - **QR Code** – Easily scannable code to access the site on mobile devices.
 - **Q&A** – Educational section describing Web 1.0 through Web 3.0, using a practical, relatable example.
 - **Contact Form** – Send a message with your email and a smiley.
